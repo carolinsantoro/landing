@@ -1,0 +1,33 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-cards {
+width: 1000px;
+margin: 20px auto;
+
+}
+
+.card img {
+  width: 220px;
+  height: 250px;
+
+
+}
+
+.card {
+  box-shadow: 1px 1px 4px gray;
+  padding: 25px;
+
+}
+
+.container-cards h2 {
+  text-align: center;
+}
+
+.container-cards p {
+  text-align: center;
+  color: gray;
+}
+

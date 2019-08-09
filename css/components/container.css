@@ -1,0 +1,16 @@
+.container {
+  width: 740px;
+  margin: 0 auto;
+  height: 120px;
+}
+
+
+.container p {
+font-size: 20px;
+color: gray;
+}
+
+.container h1 {
+font-size: 30px;
+color: color;
+}
